@@ -1,0 +1,28 @@
+{
+  "transcripts": [
+    {
+      "call_id": "BATCH-001",
+      "agent_name": "Maria Santos",
+      "call_date": "2025-03-28",
+      "call_duration_seconds": 245,
+      "department": "Scheduling",
+      "transcript": "Agent: Thank you for calling Pain Management & Neurology Clinic, this is Maria. How can I help you today?\nCaller: Hi, I need to schedule a follow-up appointment with Dr. Patel.\nAgent: Of course! Let me pull up Dr. Patel's availability. Can I have your date of birth to locate your file?\nCaller: Sure, it's March 15, 1982.\nAgent: Thank you. I see your file here. Dr. Patel has openings next Tuesday at 10 AM and Thursday at 2 PM. Which works better for you?\nCaller: Tuesday at 10 works great.\nAgent: Perfect, I've booked you for Tuesday, April 1st at 10 AM with Dr. Patel at our Riverside location. You'll get a confirmation text shortly. Is there anything else I can help with?\nCaller: No, that's all. Thank you!\nAgent: You're welcome! Have a great day."
+    },
+    {
+      "call_id": "BATCH-002",
+      "agent_name": "James Turner",
+      "call_date": "2025-03-27",
+      "call_duration_seconds": 310,
+      "department": "Helpdesk",
+      "transcript": "Agent: Pain Management Clinic, James speaking.\nCaller: Hi, I'm calling about my mother, Linda Brooks. I need to know what medications she's currently on.\nAgent: Sure, let me look that up. OK so Linda Brooks, date of birth June 5th 1951, she's currently prescribed Oxycodone 10mg twice daily and Gabapentin 300mg three times daily.\nCaller: Great, thank you so much.\nAgent: No problem! Is there anything else?\nCaller: No, that's it.\nAgent: Have a good day!"
+    },
+    {
+      "call_id": "BATCH-003",
+      "agent_name": "Alex Kim",
+      "call_date": "2025-03-22",
+      "call_duration_seconds": 12,
+      "department": "Helpdesk",
+      "transcript": "Agent: Thank you for calling, how can I help?\nCaller: Sorry, wrong number.\nAgent: No problem, have a good day."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "call_id": "CALL-002",
+  "agent_name": "Kevin Brooks",
+  "call_date": "2025-01-16",
+  "call_duration_seconds": 312,
+  "department": "Records",
+  "transcript": "Agent: Records department, what do you need?\nCaller: Hi, I'm calling to request my medical records.\nAgent: Okay, what's your name?\nCaller: Lisa Chen.\nAgent: Alright Lisa, what records do you need?\nCaller: I need my complete treatment history from last year sent to my new doctor.\nAgent: Yeah sure, I'll send everything over. What's the fax number for your new doctor?\nCaller: It's 555-0192. But don't you need to verify my identity first or have me sign something?\nAgent: Nah, we have your name, that's enough. I'll fax it over today.\nCaller: Are you sure? My previous clinic always required a signed authorization.\nAgent: Look, do you want the records or not? I'm trying to help you here. We do this all the time, it's fine.\nCaller: Okay... I guess. Can you also tell me what my diagnosis was?\nAgent: Yeah, it says here you have lumbar radiculopathy and you were on oxycodone 40mg. I can see your whole chart.\nCaller: Oh, um, I didn't expect you to just read that out like that.\nAgent: You asked. Anything else?\nCaller: No, I think that's it.\nAgent: Okay, bye."
+}

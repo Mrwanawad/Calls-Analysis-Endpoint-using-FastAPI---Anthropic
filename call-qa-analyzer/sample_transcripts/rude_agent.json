@@ -1,0 +1,8 @@
+{
+    "call_id": "CALL-003",
+  "agent_name": "Kevin Price",
+  "call_date": "2025-03-26",
+  "call_duration_seconds": 185,
+  "department": "Follow-Ups",
+  "transcript": "Agent: Yeah, what do you need?\nCaller: Um, hi, I was told to call back about my MRI results?\nAgent: OK what's your name?\nCaller: Patricia Gomez.\nAgent: Hold on... I don't see anything here. Are you sure you were told to call this number?\nCaller: Yes, the doctor's office told me to call for my results.\nAgent: Well I don't have anything. You probably called the wrong department. Try calling back and pressing a different option.\nCaller: Can you transfer me?\nAgent: I'm not able to do transfers right now. Just call back.\nCaller: That's really frustrating, I've been trying to get these results for—\nAgent: Ma'am, I told you, I can't help. Call back. Bye."
+}

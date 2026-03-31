@@ -1,0 +1,8 @@
+{
+  "call_id": "CALL-001",
+  "agent_name": "Maria Santos",
+  "call_date": "2025-01-15",
+  "call_duration_seconds": 245,
+  "department": "Scheduling",
+  "transcript": "Agent: Thank you for calling Pain Management and Neurology Clinic, this is Maria. How can I help you today?\nCaller: Hi Maria, I'd like to schedule a follow-up appointment with Dr. Patel.\nAgent: Of course! May I have your full name and date of birth so I can pull up your chart?\nCaller: Sure, it's John Thompson, date of birth March 12, 1978.\nAgent: Thank you, Mr. Thompson. I have your chart here. Dr. Patel is available next Tuesday, January 21st at 10:00 AM or Thursday, January 23rd at 2:30 PM. Which works better for you?\nCaller: Tuesday at 10 works great.\nAgent: Perfect. I've scheduled you for Tuesday, January 21st at 10:00 AM with Dr. Patel at our Riverside location. Please arrive 15 minutes early and bring your insurance card and photo ID.\nCaller: Great, thank you.\nAgent: You're welcome, Mr. Thompson. Is there anything else I can help you with?\nCaller: No, that's all. Thanks again.\nAgent: Have a wonderful day! Goodbye."
+}

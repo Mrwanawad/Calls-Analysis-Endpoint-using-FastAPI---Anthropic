@@ -1,0 +1,8 @@
+{
+    "call_id": "CALL-EDGE-003",
+  "agent_name": "Unknown",
+  "call_date": "2025-03-21",
+  "call_duration_seconds": 30,
+  "department": "Helpdesk",
+  "transcript": "Caller: Hello? Hello? Is anyone there?\nCaller: Hello??\nCaller: OK I guess nobody's picking up."
+}

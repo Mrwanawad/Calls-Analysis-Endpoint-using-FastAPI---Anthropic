@@ -1,0 +1,10 @@
+{
+  "call_id": "CALL-005",
+  "agent_name": "Diana Reyes",
+  "call_date": "2025-03-24",
+  "call_duration_seconds": 420,
+  "department": "Records",
+  "transcript": "Agent: Records department, this is Diana. How may I assist you?\nCaller: Hi Diana, this is Jennifer from Baxter Law Office. I need medical records for patient Michael Chen, DOB 09/12/1975. We have a signed authorization on file.\nAgent: Hi Jennifer, let me check on that. Yes, I do see the authorization for Michael Chen. I can process that request. It usually takes about 5 business days.\nCaller: Is there any way to expedite it? We have a court deadline coming up.\nAgent: Hmm, I'm not really sure about expediting. I think we can but I'd have to check with my supervisor. Can I call you back?\nCaller: Sure, my number is 555-0199.\nAgent: Got it. I'll check and call you back today. Is there anything else?\nCaller: No, that's it. Thanks Diana.\nAgent: You're welcome, talk soon!"
+}
+
+

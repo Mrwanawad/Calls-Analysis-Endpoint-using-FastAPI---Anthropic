@@ -1,0 +1,8 @@
+{
+  "call_id": "CALL-003",
+  "agent_name": "Diana Reyes",
+  "call_date": "2025-01-17",
+  "call_duration_seconds": 18,
+  "department": "Helpdesk",
+  "transcript": "Agent: Thank you for calling Pain Management and Neurology Clinic, this is Diana. How can I help you?\nCaller: Oh sorry, I think I dialed the wrong number.\nAgent: No problem at all! Have a great day.\nCaller: Thanks, bye."
+}
