@@ -1,6 +1,6 @@
 # Call QA Analyzer
 
-AI-powered quality analysis for phone call transcripts at a pain management and neurology clinic. Replaces manual QA review (currently covering only 9% of calls) with automated, non-punitive analysis of 100% of calls.
+AI-powered quality analysis for phone call transcripts at a pain management and neurology clinic. Replaces manual QA review with automated, non-punitive analysis of 100% of calls.
 
 ## Quick Start
 
